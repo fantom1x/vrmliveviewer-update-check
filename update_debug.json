@@ -4,8 +4,8 @@
         "title","VRM Live Viewer",
         "latest_version":"3.12.5",
         "last_update","2025-10-18",
-        "ja":"新しいバージョンがあります！変更点：バグ修正と安定性改善。",
-        "en":"There's a new version! Changes: Bug fixes and stability improvements.",
+        "ja":"・自動カメラに「位置の変化(加算移動)」（対象からの相対位置）機能を追加。\n・自動カメラの[移動速度]も、共有/個別データの切り替え可能に変更。\n・自動カメラで、フレーム番号切り替えモード時の[開始フレーム]の移動ボタン（[|<],[>|]）を、そのデータの開始と終了フレームに移動できるように変更。\n・「アップデート通知」の機能を試験実装（起動時に1日1回のみ、最新バージョンがあれば通知する。ヘルプからはいつでも見れる）。\n・VMD補正ツール連携 GUI v1.6 アップデート(添付)。\n・他 UI等の調整・修正。",
+        "en":"・Added a \"Position change (Additive movement)\" (relative position from the target) function to the Auto Camera.\n・Modified the Auto Camera's [(Movement) Speed] so that it can now switch between Shared and Each data.\n・Modified the Auto Camera's [Start Frame] movement buttons ([|<], [>|]) in Frame Number switching mode so that they can move to the start and end frames of that data.\n・Trial implementation of an \"Update Notification\" function (notifies you once a day at launch if a new version is available. Can be viewed at any time from Help).\n・VMD correction tool collab GUI v1.6 update (included).\n・Other UI adjustments and fixes.",
         "url":"https://fantom1x.booth.pm/items/1783082"
     },
     "others":[
