@@ -1,6 +1,31 @@
 {
- "latest_version": "3.12.5",
- "ja": "新しいバージョンがあります！変更点：バグ修正と安定性改善。",
- "en": "There's a new version! Changes: Bug fixes and stability improvements.",
- "url": "https://fantom1x.booth.pm/items/1783082"
+    "app":{
+        "key":"VRMLiveViewer",
+        "title","VRM Live Viewer",
+        "latest_version":"3.12.5",
+        "last_update","2025-10-18",
+        "ja":"新しいバージョンがあります！変更点：バグ修正と安定性改善。",
+        "en":"There's a new version! Changes: Bug fixes and stability improvements.",
+        "url":"https://fantom1x.booth.pm/items/1783082"
+    },
+    "others":[
+        {
+            "key":"Demo-Setting_Samples",
+            "title":"背景効果設定集 (Demo-Setting collection)",
+            "latest_version":"1.2.0",
+            "last_update","2025-09-30",
+            "ja":"20250929_キラキラ＋アルファ変化と結晶樹林を合わせてみる(※プリセットパーティクル版)\nhttps://youtu.be/sKSukJXw2Q4",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/3469388"
+        },
+        {
+            "key":"ParticleTextures",
+            "title":"パーティクルテクスチャ集 (Particle Texture collection)",
+            "latest_version":"1.17.0",
+            "last_update","2025-10-13",
+            "ja":"・「光彩_図形」(12種)を追加。\n・「ぼかしハート1,ぼかしハート2,ぼかし星」(18種)を追加（「ぼかし図形」フォルダ内に追加）。",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/7286300"
+        }
+    ]
 }
