@@ -21,7 +21,7 @@
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.17.0",
+            "latest_version":"1.18.0",
             "last_update":"2025-10-13",
             "ja":"・「光彩_図形」(12種)を追加。\n・「ぼかしハート1,ぼかしハート2,ぼかし星」(18種)を追加（「ぼかし図形」フォルダ内に追加）。",
             "en":"",
