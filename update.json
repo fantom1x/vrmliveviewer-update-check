@@ -29,6 +29,16 @@
             "en":"",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
-        }
+        },
+        {
+            "key":"Halloween_Collection",
+            "title":"ハロウィン素材コレクション (Halloween Collection)",
+            "latest_version":"1.0.0",
+            "last_update":"2025-10-02",
+            "ja":"ハロウィンっぽいテーマを扱った素材や設定を集めただけのものです（背景効果設定集,パーティクルテクスチャ集,キャラスタンドセット,壁GLBから）。基本的に既存と同じものなので、既に所持してる場合は必要ありません。",
+            "en":"This is just a collection of Halloween-themed materials and settings (from Demo-Settings, particle Textures, Character stand sets, Wall GLB). They are basically the same as existing items, so if you already have them, you don't need to purchase them.",
+            "url":"https://fantom1x.booth.pm/items/7495189",
+            "release_note":""
+        }        
     ]
 }
