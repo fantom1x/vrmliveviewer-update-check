@@ -40,5 +40,15 @@
             "url":"https://fantom1x.booth.pm/items/7495189",
             "release_note":""
         }        
-    ]
+    ],
+    "note":{
+        "key":"note",
+        "title":"NotebookLMの動画解説にNano Bananaが導入されたらしいよ",
+        "latest_version":"n20e757eedf15",
+        "last_update":"2025-10-22",
+        "ja":"AIヘルプの「動画解説」が新しくなりました。",
+        "en":"The AI ​​Help 'Video Explanation' has been updated.",
+        "url":"https://note.com/fantom1x/n/n20e757eedf15",
+        "release_note":""
+    }
 }
