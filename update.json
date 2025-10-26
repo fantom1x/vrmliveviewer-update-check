@@ -11,6 +11,16 @@
     },
     "others":[
         {
+            "key":"ParticleTextures",
+            "title":"パーティクルテクスチャ集 (Particle Texture collection)",
+            "latest_version":"1.18",
+            "last_update":"2025-10-26",
+            "ja":"・「ドットで図形」(ドットでハート,ドットで星)を追加。",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/7286300",
+            "release_note":""
+        },
+        {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
             "latest_version":"1.2.0",
@@ -19,16 +29,6 @@
             "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
             "release_note":""
-        },
-        {
-            "key":"ParticleTextures",
-            "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.17.1",
-            "last_update":"2025-10-19",
-            "ja":"・「六角形-横_光彩_内」(横向きの六角形)を追加（「光彩_図形」フォルダ内に追加）。\n・「ぼかし六角形-横」(横向きの六角形を6種)を追加（「ぼかし図形」フォルダ内に追加）。",
-            "en":"",
-            "url":"https://fantom1x.booth.pm/items/7286300",
-            "release_note":""
-        }      
+        }
     ]
 }
