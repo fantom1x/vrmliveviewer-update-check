@@ -13,10 +13,10 @@
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.18",
-            "last_update":"2025-10-26",
-            "ja":"・「ドットで図形」(ドットでハート,ドットで星)を追加。",
-            "en":"",
+            "latest_version":"1.19",
+            "last_update":"2025-12-11",
+            "ja":"・「クリスマス」(19種),応用例を追加。",
+            "en":"Added 'Christmas' textures (19 types) and examples.",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         },
