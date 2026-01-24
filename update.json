@@ -2,12 +2,12 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.13",
-        "last_update":"2025-12-26",
-        "ja":"・カメラ/動画の映像ソースを自由に映すことができる「カスタムスクリーン」を追加。\n・プリセットステージの一部を表示/非表示できる「プリセットステージの設定」を追加。\n・自動カメラに「視野角の変化」を追加。\n・他 UI.ショートカット等の追加・調整・修正。",
-        "en":"・Added a 'Custom Screen' that allows you to freely display camera/video sources.\n・Added 'Preset Stage Settings' that allows you to show/hide parts of the preset stage.\n・Added the ability to change the field of view to the Auto Camera.\n・Added, adjusted, and corrected other UI shortcuts, etc.",
+        "latest_version":"3.13.1",
+        "last_update":"2026-01-24",
+        "ja":"・カスタムスクリーンに「自動回転」と「VMDモーションの再生」機能を追加（「全ての親」「センター」「表示ON/OFF」が利用(ロード)できる機能を追加。「全ての親」「センター」は常に配置を中心に移動・回転する）。\n・オブジェクトのオプション設定に「自動回転」機能を追加。\n・メインライト, カスタムライトの「自動回転」に「軸回転」モードと、「モーションの後に適用」オプションを追加。\n・オブジェクト, パーティクル, カスタムライトの「VMDモーション再生」に「位置と回転の補正」オプションを追加。\n・自動カメラの変化設定に「片道」モード（往復せず、終了値で変化終了する）を追加。\n・他 UI, システム等の調整・修正。\n※カスタムスクリーンの自動回転実装で、回転軸を揃える微修正を加えたため、シーンによっては、Z:+0.01 自動修正されます（必要なら、手動で再調整した方が良い場合もあるかも）。",
+        "en":"・Added 'Auto Rotate' and 'VMD Motion Playback' functions to Custom Screens (added the ability to use (load) 'Parent-of-all', 'Center', and 'Display ON/OFF'. 'Parent-of-all' and 'Center' always move and rotate around their placement).\n・Added an 'Auto Rotate7 function to Object Option Settings.\n・Added an 'Angle Axis' mode and an 'Apply After Motion' option to 'Auto Rotate' for Main Light and Custom Light.\n・Added 'Position and Rotation Offset' option to 'VMD Motion' for Objects, Particles, and Custom Lights.\n・Added a 'One-way' mode (does not go back and forth, ends change at the end value) to the Auto Camera change settings.\n・Other UI, system adjustments and fixes.\n* A minor correction has been made to align the rotation axis when implementing Auto Rotate for Custom Screens, so depending on the scene, Z:+0.01 will be automatically corrected (it may be better to readjust manually if necessary).",
         "url":"https://fantom1x.booth.pm/items/1783082",
-        "release_note":"https://note.com/fantom1x/n/nff714cd37c5c"
+        "release_note":"https://note.com/fantom1x/n/n290325de80e0"
     },
     "others":[
         {
