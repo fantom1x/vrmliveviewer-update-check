@@ -23,10 +23,10 @@
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.20",
-            "last_update":"2026-02-10",
-            "ja":"バレンタインに使えそうなハート系パーティクルを12種追加。サンプル設定(.json)3種付き。\n・「風船_ハート＆バレンタイン」(8種),チューリップ畑の設定(.json)付き。\n・「ハート3_光彩_内,ハート3_光彩_内太,ハート4_光彩_内,ハート4_光彩_内太」(4種)を追加（「光彩_図形」フォルダに追加）。\n※バレンタイン設定(2種)「～_光彩_ハート3_バレンタイン_サーモンピンク.json」「～_光彩_ハート4_バレンタイン_明るいピンク.json」付き。",
-            "en":"Twelve new heart-type particles perfect for Valentine's Day have been added. Three sample settings (.json) are included.\n・Includes '風船_ハート＆バレンタイン' (8 types) and 'チューリップ畑' settings (.json).\n・Added 'ハート3_光彩_内,ハート3_光彩_内,ハート3_光彩_内,ハート3_光彩_内太,ハート4_光彩_内,ハート4_光彩_内太' (4 types) (added to the '光彩_図形' folder).\n* Includes two Valentine's Day settings: '～_光彩_ハート3_バレンタイン_サーモンピンク.json' and '～_光彩_ハート4_バレンタイン_明るいピンク.json.'",
+            "latest_version":"1.20.1",
+            "last_update":"2026-02-12",
+            "ja":"バレンタインに使えそうなハート系パーティクルを14種追加。サンプル設定(.json)5種付き。\n・「ハート1_光彩_内太,ハート2_光彩_内太」(2種)を追加（「光彩_図形」フォルダに追加）。\n※バレンタイン設定(2種)「～_光彩_ハート1_バレンタイン_サーモンピンク.json」「～_光彩_ハート2_バレンタイン_明るいピンク.json」付き。",
+            "en":"14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.\n・Added 'ハート1_光彩_内太,ハート2_光彩_内太'(2 types) (Added to the '光彩_図形' folder).\n* Includes 2 Valentine's Day settings: '～_光彩_ハート1_バレンタイン_サーモンピンク.json','～_光彩_ハート2_バレンタイン_明るいピンク.json'.",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         }
