@@ -13,9 +13,9 @@
         {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
-            "latest_version":"1.3.0",
-            "last_update":"2025-12-26",
-            "ja":"・以下のフォルダの「環境エフェクト」に「v3.13以降(カスタムスクリーン)」として、カスタムスクリーン入りの環境設定ファイル(environment_～_with_CustomScreen.json)と、カスタムスクリーンリスト(customScreen_～.json)を追加（ファイルドロップですぐ適用できる）\n「20220627_CRS_in_CyberStage」(サイバーステージ使用例)\n「20230109_サイバーシティをエモくしてみる」(サイバーシティ使用例)\n「20230702_アイドル(YOASOBI)チュートリアル」(屋内ライブステージ使用例)",
+            "latest_version":"1.4.0",
+            "last_update":"2026-02-12",
+            "ja":"「ハート手」のポーズデータ(pose_～.json)と、バレンタインっぽい環境設定(.json)[1種]を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
             "release_note":""
@@ -23,11 +23,31 @@
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.20.1",
+            "latest_version":"1.20.2",
             "last_update":"2026-02-12",
-            "ja":"バレンタインに使えそうなハート系パーティクルを14種追加。サンプル設定(.json)5種付き。\n・「ハート1_光彩_内太,ハート2_光彩_内太」(2種)を追加（「光彩_図形」フォルダに追加）。\n※バレンタイン設定(2種)「～_光彩_ハート1_バレンタイン_サーモンピンク.json」「～_光彩_ハート2_バレンタイン_明るいピンク.json」付き。",
-            "en":"14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.\n・Added 'ハート1_光彩_内太,ハート2_光彩_内太'(2 types) (Added to the '光彩_図形' folder).\n* Includes 2 Valentine's Day settings: '～_光彩_ハート1_バレンタイン_サーモンピンク.json','～_光彩_ハート2_バレンタイン_明るいピンク.json'.",
+            "ja":"「ハート手」のポーズデータ(pose_～.json)と、ハート系パーティクルを14種追加。サンプル設定(.json)5種付き。",
+            "en":"Added 'Finger Heart' pose data (pose~.json) and 14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.",
             "url":"https://fantom1x.booth.pm/items/7286300",
+            "release_note":""
+        },
+        {
+            "key":"CharacterStandSet",
+            "title":"キャラスタンドセット (Character Stand Set)",
+            "latest_version":"1.1",
+            "last_update":"2026-02-12",
+            "ja":"「ハート手」のポーズデータ(pose_～.json)と、ハート系パーティクルを14種追加。サンプル設定(.json)5種付き。",
+            "en":"Added 'Finger Heart' pose data (pose~.json) and 14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.",
+            "url":"https://fantom1x.booth.pm/items/5166187",
+            "release_note":""
+        },
+        {
+            "key":"VRMDollPlay_PoseSet",
+            "title":"VRMお人形遊びポーズ＋VRMLiveViewer設定セット (VRM DollPlay Pose Set)",
+            "latest_version":"1.1",
+            "last_update":"2026-02-12",
+            "ja":"「ハート手」のポーズデータ(pose_～.json)と、ハート系パーティクルを14種追加。サンプル設定(.json)5種付き。",
+            "en":"Added 'Finger Heart' pose data (pose~.json) and 14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.",
+            "url":"https://fantom1x.booth.pm/items/5818784",
             "release_note":""
         }
     ],
