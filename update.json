@@ -2,12 +2,12 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.13.1",
-        "last_update":"2026-01-24",
-        "ja":"・カスタムスクリーンに「自動回転」と「VMDモーションの再生」機能を追加（「全ての親」「センター」「表示ON/OFF」が利用(ロード)できる機能を追加。「全ての親」「センター」は常に配置を中心に移動・回転する）。\n・オブジェクトのオプション設定に「自動回転」機能を追加。\n・メインライト, カスタムライトの「自動回転」に「軸回転」モードと、「モーションの後に適用」オプションを追加。\n・オブジェクト, パーティクル, カスタムライトの「VMDモーション再生」に「位置と回転の補正」オプションを追加。\n・自動カメラの変化設定に「片道」モード（往復せず、終了値で変化終了する）を追加。\n・他 UI, システム等の調整・修正。\n※カスタムスクリーンの自動回転実装で、回転軸を揃える微修正を加えたため、シーンによっては、Z:+0.01 自動修正されます（必要なら、手動で再調整した方が良い場合もあるかも）。",
-        "en":"・Added 'Auto Rotate' and 'VMD Motion Playback' functions to Custom Screens (added the ability to use (load) 'Parent-of-all', 'Center', and 'Display ON/OFF'. 'Parent-of-all' and 'Center' always move and rotate around their placement).\n・Added an 'Auto Rotate7 function to Object Option Settings.\n・Added an 'Angle Axis' mode and an 'Apply After Motion' option to 'Auto Rotate' for Main Light and Custom Light.\n・Added 'Position and Rotation Offset' option to 'VMD Motion' for Objects, Particles, and Custom Lights.\n・Added a 'One-way' mode (does not go back and forth, ends change at the end value) to the Auto Camera change settings.\n・Other UI, system adjustments and fixes.\n* A minor correction has been made to align the rotation axis when implementing Auto Rotate for Custom Screens, so depending on the scene, Z:+0.01 will be automatically corrected (it may be better to readjust manually if necessary).",
+        "latest_version":"3.13.2",
+        "last_update":"2026-02-20",
+        "ja":"・オブジェクト,パーティクル,カスタムライト,カスタムスクリーンに「自動移動」(基準位置から簡単な加算移動をする)機能を追加。\n・キャラクターオプションに「自動回転」「自動移動」を追加。\n・VRoidHubを自動ログインに変更（SDK0.1.4に更新）。\n※「キャッシュ期間切れ」みたいなエラーが出た場合は、アプリコンフィグから「VRoidHubキャッシュのクリア」をして、アプリを再起動すると、ロードできるようになる。\n・他 UI, システム等の調整・修正。",
+        "en":"・Added an 'Auto Move' function (performs simple additive movement from a reference position) to Objects, Particles, Custom Lights, and Custom Screens.\n・Added 'Auto Rotate' and 'Auto Move' to Character Options.\n・Changed VRoidHub to auto-login (updated to SDK 0.1.4).\n* If you get an error like 'cache expired,' you can clear the [VRoidHub Cache] from the App Config and restart the app, which will allow it to load.\n・Other adjustments and fixes to the UI, system, etc.",
         "url":"https://fantom1x.booth.pm/items/1783082",
-        "release_note":"https://note.com/fantom1x/n/n290325de80e0"
+        "release_note":"https://note.com/fantom1x/n/n538bab8ba7dc"
     },
     "others":[
         {
