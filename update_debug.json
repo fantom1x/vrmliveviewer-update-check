@@ -32,7 +32,7 @@
         },
         {
             "key":"StandTypeFloors",
-            "title":"スタンド型床のバリエーション集",
+            "title":"スタンド型床のバリエーション集 (Stand-type Floors)",
             "latest_version":"1.0",
             "last_update":"2026-02-27",
             "ja":"スタンド型床のバリエーションを48種追加",
@@ -62,7 +62,7 @@
         },
         {
             "key":"FloorMake",
-            "title":"床GLB",
+            "title":"床GLB (Floors)",
             "latest_version":"1.1",
             "last_update":"2026-02-25",
             "ja":"StandingDiskFlat_Cyan_3m.glb (_Lime/_Magenta) [3色] を追加（StandingDisk_Emissive_～.glb より平らな床ver）",
