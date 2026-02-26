@@ -13,10 +13,10 @@
         {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
-            "latest_version":"1.4.0",
-            "last_update":"2026-02-12",
-            "ja":"・「ハート手」のポーズデータ(pose_～.json)と、バレンタインっぽい環境設定(.json)[1種]を追加。",
-            "en":"・Added 'Finger Heart' pose data (pose~.json) and Valentine's Day-like sample setting (.json).",
+            "latest_version":"1.5.0",
+            "last_update":"2026-02-27",
+            "ja":"「アプリの機能だけで、派手なムービングステージ風にしてみたよ」の設定を追加。",
+            "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
             "release_note":""
         },
@@ -31,12 +31,22 @@
             "release_note":""
         },
         {
+            "key":"StandTypeFloors",
+            "title":"スタンド型床のバリエーション集",
+            "latest_version":"1.0",
+            "last_update":"2026-02-27",
+            "ja":"スタンド型床のバリエーションを48種追加",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/8034971",
+            "release_note":""
+        },
+        {
             "key":"CharacterStandSet",
             "title":"キャラスタンドセット (Character Stand Set)",
-            "latest_version":"1.1",
-            "last_update":"2026-02-12",
-            "ja":"・「ハート手」のポーズデータ(pose_～.json)と、バレンタインっぽい環境設定(.json)[1種]を追加。",
-            "en":"・Added 'Finger Heart' pose data (pose~.json) and Valentine's Day-like sample setting (.json).",
+            "latest_version":"1.2",
+            "last_update":"2026-02-24",
+            "ja":"「CharaStandバリエーション」(17種)を追加",
+            "en":"",
             "url":"https://fantom1x.booth.pm/items/5166187",
             "release_note":""
         },
@@ -48,6 +58,16 @@
             "ja":"・「ハート手」のポーズデータ(pose_～.json)と、バレンタインっぽい環境設定(.json)[1種]を追加。",
             "en":"・Added 'Finger Heart' pose data (pose~.json) and Valentine's Day-like sample setting (.json).",
             "url":"https://fantom1x.booth.pm/items/5818784",
+            "release_note":""
+        },
+        {
+            "key":"FloorMake",
+            "title":"床GLB",
+            "latest_version":"1.1",
+            "last_update":"2026-02-25",
+            "ja":"StandingDiskFlat_Cyan_3m.glb (_Lime/_Magenta) [3色] を追加（StandingDisk_Emissive_～.glb より平らな床ver）",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/2542558",
             "release_note":""
         }
     ],
