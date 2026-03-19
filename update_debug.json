@@ -2,10 +2,10 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.13.2",
-        "last_update":"2026-02-20",
-        "ja":"・オブジェクト,パーティクル,カスタムライト,カスタムスクリーンに「自動移動」(基準位置から簡単な加算移動をする)機能を追加。\n・キャラクターオプションに「自動回転」「自動移動」を追加。\n・VRoidHubを自動ログインに変更（SDK0.1.4に更新）。\n※「キャッシュ期間切れ」みたいなエラーが出た場合は、アプリコンフィグから「VRoidHubキャッシュのクリア」をして、アプリを再起動すると、ロードできるようになる。\n・他 UI, システム等の調整・修正。",
-        "en":"・Added an 'Auto Move' function (performs simple additive movement from a reference position) to Objects, Particles, Custom Lights, and Custom Screens.\n・Added 'Auto Rotate' and 'Auto Move' to Character Options.\n・Changed VRoidHub to auto-login (updated to SDK 0.1.4).\n* If you get an error like 'cache expired,' you can clear the [VRoidHub Cache] from the App Config and restart the app, which will allow it to load.\n・Other adjustments and fixes to the UI, system, etc.",
+        "latest_version":"3.13.3",
+        "last_update":"2026-03-19",
+        "ja":"・キャラクター, オブジェクト, パーティクル, メイン/カスタムライト, カスタムスクリーンに「自動表示切替」(フレーム番号、または指定間隔で表示/非表示を切り替える)機能を追加。\n・他 UI, システム等の調整・修正。",
+        "en":"・Added an 'Auto Display Switching' function (toggles display/hide based on frame number or specified interval) to Characters, Objects, Particles, Main/Custom Lights, and Custom Screens.\n・Adjustments and fixes to other UI and system elements.",
         "url":"https://fantom1x.booth.pm/items/1783082",
         "release_note":"https://note.com/fantom1x/n/n538bab8ba7dc"
     },
@@ -33,9 +33,9 @@
         {
             "key":"StandTypeFloors",
             "title":"スタンド型床のバリエーション集 (Stand-type Floors)",
-            "latest_version":"1.0",
-            "last_update":"2026-02-27",
-            "ja":"スタンド型床のバリエーションを48種追加",
+            "latest_version":"1.1",
+            "last_update":"2026-03-14",
+            "ja":"StandingBoard (StandingDisk の正方形・長方形版。5色:60種) を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/8034971",
             "release_note":""
