@@ -2,10 +2,10 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.13.3",
-        "last_update":"2026-03-19",
-        "ja":"・キャラクター, オブジェクト, パーティクル, メイン/カスタムライト, カスタムスクリーンに「自動表示切替」(フレーム番号、または指定間隔で表示/非表示を切り替える)機能を追加。\n・他 UI, システム等の調整・修正。",
-        "en":"・Added an 'Auto Display Switching' function (toggles display/hide based on frame number or specified interval) to Characters, Objects, Particles, Main/Custom Lights, and Custom Screens.\n・Adjustments and fixes to other UI and system elements.",
+        "latest_version":"3.13.4",
+        "last_update":"2026-03-27",
+        "ja":"・フルスクラッチのVMD自動モーフバインドを微チューニング（キズナアイ公式VRMモデル[KAMATTE AI] の表情設定が .vmd でかなり扱い易くなる）。",
+        "en":"・Fine-tuned the fully custom VMD automatic morph binding (making the facial expression settings for the official Kizuna AI VRM model [KAMATTE AI] much easier to handle in .vmd format).",
         "url":"https://fantom1x.booth.pm/items/1783082",
         "release_note":"https://note.com/fantom1x/n/nfde49f573f84"
     },
