@@ -23,10 +23,10 @@
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.20.2",
-            "last_update":"2026-02-12",
-            "ja":"・「ハート手」のポーズデータ(pose_～.json)と、ハート系パーティクルを14種追加。サンプル設定(.json)5種付き。",
-            "en":"・Added 'Finger Heart' pose data (pose~.json) and 14 new heart-type particles perfect for Valentine's Day have been added. 5 sample settings (.json) are included.",
+            "latest_version":"1.21",
+            "last_update":"2026-04-23",
+            "ja":"・「超かぐや姫！」(9種)＋「桜の花びら」(4種)追加。「私は、わたしの事が好き。」の設定(.json)5種付き。",
+            "en":"・Added 'CosmicPrincessKaguya' (9types) and 'Cherry blossom petals' (4typs). 'I love myself.' settings (.json) are included.",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         },
@@ -68,6 +68,16 @@
             "ja":"StandingDiskFlat_Cyan_3m.glb (_Lime/_Magenta) [3色] を追加（StandingDisk_Emissive_～.glb より平らな床ver）",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/2542558",
+            "release_note":""
+        },
+        {
+            "key":"CosmicPrincessKaguya_face_lip_vmd",
+            "title":"超かぐや姫！『私は、わたしの事が好き。』の「表情＆リップ」「目ボーン」の VMDモーション",
+            "latest_version":"1.0",
+            "last_update":"2026-04-23",
+            "ja":"サンプル動画で使った、超かぐや姫！『私は、わたしの事が好き。』の「表情＆リップ」「目ボーン」の VMDモーションを配布します。",
+            "en":"This is a VMD motion distribution of 'Facial Expressions & Lips' and 'Eye Bones' from the sample video of 'Cosmic Princess Kaguya! I love myself.'",
+            "url":"https://fantom1x.booth.pm/items/8239496",
             "release_note":""
         }
     ],
