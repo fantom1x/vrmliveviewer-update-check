@@ -83,12 +83,12 @@
     ],
     "note":{
         "key":"note",
-        "title":"VRMLiveViewerイラスト解説(インフォグラフィック)",
-        "latest_version":"n4a25054b39aa",
-        "last_update":"2026-01-09",
-        "ja":"VRMLiveViewerの機能をイラスト(インフォグラフィック)で解説してみる試みです。",
-        "en":"This is an attempt to explain the functions of VRMLiveViewer using illustrations (infographics).",
-        "url":"https://note.com/fantom1x/n/n4a25054b39aa",
+        "title":"キズナアイ(かまってアイ)VRMを少しだけ使い易くする",
+        "latest_version":"n8621a08653e3",
+        "last_update":"2026-04-03",
+        "ja":"公式配布の「かまってアイVRM」(キズナアイ)を、アプリで少しだけ使いやすくするセットアップを、Unityを用いて解説します。",
+        "en":"This guide explains how to set up the officially distributed 'Kamatte AI VRM' (Kizuna AI) to be slightly easier to use in an app, using Unity.",
+        "url":"https://note.com/fantom1x/n/n8621a08653e3",
         "release_note":""
     }
 }
