@@ -25,7 +25,7 @@
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
             "latest_version":"1.21",
             "last_update":"2026-04-23",
-            "ja":"・「超かぐや姫！」(9種)＋「桜の花びら」(4種)追加。「私は、わたしの事が好き。」の設定(.json)5種付き。",
+            "ja":"・「超かぐや姫！」(9種)＋「桜の花びら」(4種)追加。「私は、わたしの事が好き。」の設定(.json)付き。",
             "en":"・Added 'CosmicPrincessKaguya' (9types) and 'Cherry blossom petals' (4typs). 'I love myself.' settings (.json) are included.",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
@@ -72,7 +72,7 @@
         },
         {
             "key":"CosmicPrincessKaguya_face_lip_vmd",
-            "title":"超かぐや姫！『私は、わたしの事が好き。』の「表情＆リップ」「目ボーン」の VMDモーション",
+            "title":"超かぐや姫！『私は、わたしの事が好き。』の「表情＆リップ」「目ボーン」の VMDモーション配布",
             "latest_version":"1.0",
             "last_update":"2026-04-23",
             "ja":"サンプル動画で使った、超かぐや姫！『私は、わたしの事が好き。』の「表情＆リップ」「目ボーン」の VMDモーションを配布します。",
