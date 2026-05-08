@@ -93,12 +93,12 @@
     ],
     "note":{
         "key":"note",
-        "title":"キズナアイ(かまってアイ)VRMを少しだけ使い易くする",
-        "latest_version":"n8621a08653e3",
-        "last_update":"2026-04-03",
-        "ja":"公式配布の「かまってアイVRM」(キズナアイ)を、アプリで少しだけ使いやすくするセットアップを、Unityを用いて解説します。",
-        "en":"This guide explains how to set up the officially distributed 'Kamatte AI VRM' (Kizuna AI) to be slightly easier to use in an app, using Unity.",
-        "url":"https://note.com/fantom1x/n/n8621a08653e3",
+        "title":"「補助オブジェクト」の仕組みと作り方",
+        "latest_version":"n111db781aabc",
+        "last_update":"2026-05-06",
+        "ja":"「補助オブジェクト」を自作したい人のために、仕組みと考え方・作り方などを解説します。",
+        "en":"This note explains the mechanism, concepts, and creation methods for those who want to create their own 'Guide Objects'.",
+        "url":"https://note.com/fantom1x/n/n111db781aabc",
         "release_note":""
     }
 }
