@@ -23,10 +23,10 @@
         {
             "key":"AttachGuideObjects",
             "title":"アタッチ補助オブジェクト (Attach Guide Objects)",
-            "latest_version":"0.2",
-            "last_update":"2026-05-05",
-            "ja":"3方向、5方向など、斜めなどが入る数でも、幾何学的な座標計算をせずに、直感的に配置できる、アタッチ補助オブジェクト(.glb)です。アタッチはキャラクター(VRM), オブジェクト, パーティクル, カスタムライト, カスタムスクリーンで利用できるので、ちょっとしたギミックを作りたいときに便利です。",
-            "en":"This is an attachment guide object (.glb) that allows you to intuitively place objects in 3, 5, or other directions, including diagonals, without having to perform geometric coordinate calculations. It can be used to attach to characters (VRM), objects, particles, custom lights, and custom screens, making it convenient for creating simple gimmicks.",
+            "latest_version":"0.3",
+            "last_update":"2026-05-10",
+            "ja":"3方向、5方向など、幾何学的な座標計算をせずに、直感的に配置できる、アタッチ補助オブジェクト(.glb)です。アタッチはキャラクター(VRM), オブジェクト, パーティクル, カスタムライト, カスタムスクリーンで利用できるので、ちょっとしたギミックを作りたいときに便利です。\n・五芒星(星型の軌跡)を追加。",
+            "en":"This is an attachment guide object (.glb) that allows you to intuitively place objects in 3, 5, or other directions, without having to perform geometric coordinate calculations. It can be used to attach to characters (VRM), objects, particles, custom lights, and custom screens, making it convenient for creating simple gimmicks.\n・Added pentagram (star-shaped trail).",
             "url":"https://fantom1x.booth.pm/items/8303431",
             "release_note":""
         },
