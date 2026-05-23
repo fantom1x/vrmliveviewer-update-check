@@ -43,9 +43,9 @@
         {
             "key":"StandTypeFloors",
             "title":"スタンド型床のバリエーション集 (Stand-type Floors)",
-            "latest_version":"1.1",
-            "last_update":"2026-03-14",
-            "ja":"StandingBoard (StandingDisk の正方形・長方形版。5色:60種) を追加。",
+            "latest_version":"1.2",
+            "last_update":"2026-05-23",
+            "ja":"・「SimpleStand」に「星型(StarStand～.glb)」「六星型(StarHexaStand～.glb)」「六角形型(HexaStand～.glb)」(18種)を追加（各1～5mのサイズバリエーションx3種）。\n・「SimpleStand/応用例」に「HOT_LIMITっぽい設定(.json)」を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/8034971",
             "release_note":""
@@ -53,9 +53,9 @@
         {
             "key":"CharacterStandSet",
             "title":"キャラスタンドセット (Character Stand Set)",
-            "latest_version":"1.2",
-            "last_update":"2026-02-24",
-            "ja":"「CharaStandバリエーション」(17種)を追加",
+            "latest_version":"1.3",
+            "last_update":"2026-05-22",
+            "ja":"・「背景オブジェクト/CharaStandバリエーション」に「星型(StarStand～.glb)」「六星型(StarHexaStand～.glb)」「六角形型(HexaStand～.glb)」(18種)を追加（各1～5mのサイズバリエーションx3種）。\n・「背景オブジェクト/応用例」に「HOT_LIMITっぽい設定(.json)」を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/5166187",
             "release_note":""
