@@ -2,12 +2,12 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.13.4",
-        "last_update":"2026-03-27",
-        "ja":"・フルスクラッチのVMD自動モーフバインドを微チューニング（キズナアイ公式VRMモデル[KAMATTE AI] の表情設定が .vmd でかなり扱い易くなる）。",
-        "en":"・Fine-tuned the fully custom VMD automatic morph binding (making the facial expression settings for the official Kizuna AI VRM model [KAMATTE AI] much easier to handle in .vmd format).",
+        "latest_version":"3.14",
+        "last_update":"2026-05-25",
+        "ja":"・Unity2022.3 にアップグレード。\n・各「自動回転」「自動移動」「自動表示切り替え」に「停止を音楽に同期」オプションを追加（音楽停止で同期して止まるか否か）。\n・各複数編集パネル上のアイテムリストで [Shift]+クリックで範囲選択できるように変更（パネル下部の UI でも範囲選択可）。\n・環境設定ファイルに「オブジェクトの設定を含める」オプションを追加（このオプションで保存した .json ファイルで、同時にオブジェクトもロード＆設定される）。\n・汎用パーティクルの [軸の空間] のシーン/エクスポートデータが反映されなくなっていた不具合を修正。\n・オブジェクト, パーティクル, カスタムライト, カスタムスクリーンで、VMD再生の同期ができなくなっていたので、修正。",
+        "en":"",
         "url":"https://fantom1x.booth.pm/items/1783082",
-        "release_note":"https://note.com/fantom1x/n/nfde49f573f84"
+        "release_note":"https://note.com/fantom1x/n/nd74eca702dfb"
     },
     "others":[
         {
