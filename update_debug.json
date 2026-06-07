@@ -13,9 +13,9 @@
         {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
-            "latest_version":"1.6.0",
-            "last_update":"2026-03-20",
-            "ja":"「メルトダウナー発現！？パーティクルでビームを連射してみる」の設定を追加。",
+            "latest_version":"1.6.1",
+            "last_update":"2026-06-07",
+            "ja":"「オマケ/GLB/スタンド型床」に「星型」「六星型」「六角形型」(_1m)のスタンド型床と、「応用例」に「HOT_LIMITっぽい設定(.json)」を追加。(※n周年版のみ)",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
             "release_note":""
@@ -43,9 +43,9 @@
         {
             "key":"StandTypeFloors",
             "title":"スタンド型床のバリエーション集 (Stand-type Floors)",
-            "latest_version":"1.2",
-            "last_update":"2026-05-23",
-            "ja":"・「SimpleStand」に「星型(StarStand～.glb)」「六星型(StarHexaStand～.glb)」「六角形型(HexaStand～.glb)」(18種)を追加（各1～5mのサイズバリエーションx3種）。\n・「SimpleStand/応用例」に「HOT_LIMITっぽい設定(.json)」を追加。",
+            "latest_version":"1.2.1",
+            "last_update":"2026-06-07",
+            "ja":"・「SimpleStand/応用例」に「environment_HOT_LIMITっぽい設定_v3.14以降.json」（環境設定ファイルだけで、オブジェクトもロードできる版）を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/8034971",
             "release_note":""
