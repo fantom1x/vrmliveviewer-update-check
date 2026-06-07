@@ -2,9 +2,9 @@
     "app":{
         "key":"VRMLiveViewer",
         "title":"VRM Live Viewer",
-        "latest_version":"3.14",
-        "last_update":"2026-05-25",
-        "ja":"・Unity2022.3 にアップグレード。\n・各「自動回転」「自動移動」「自動表示切り替え」に「停止を音楽に同期」オプションを追加（音楽停止で同期して止まるか否か）。\n・各複数編集パネル上のアイテムリストで [Shift]+クリックで範囲選択できるように変更（パネル下部の UI でも範囲選択可）。\n・環境設定ファイルに「オブジェクトの設定を含める」オプションを追加（このオプションで保存した .json ファイルで、同時にオブジェクトもロード＆設定される）。\n・汎用パーティクルの [軸の空間] のシーン/エクスポートデータが反映されなくなっていた不具合を修正。\n・オブジェクト, パーティクル, カスタムライト, カスタムスクリーンで、VMD再生の同期ができなくなっていたので、修正。",
+        "latest_version":"3.14.1",
+        "last_update":"2026-06-07",
+        "ja":"・キャラクターの「発光」「リムライト」と、オブジェクトの「発光」「アニメーション」、ライトの「明滅」「色の変化」に「停止を音楽に同期」オプションを追加（音楽停止で同期して止まるか否か）。\n・パーティクルの「非表示」状態のシーン/エクスポートデータが反映されなくなっていた不具合を修正。\n・言語設定の定義値が変更されていたため(Unity依存値)、デフォルトが英語になっていたのを、OSの言語設定に修正（以前のUnityは言語が「Unknown[未定義]→OSの言語」となっていたが、新Unityは「Unknownの定義値がHindi[ヒンディー語]に変更されていたため→不明言語→English」となっていた。一度でも設定したことある場合はならない）。\n・他 UI, システム等の調整・修正。",
         "en":"",
         "url":"https://fantom1x.booth.pm/items/1783082",
         "release_note":"https://note.com/fantom1x/n/nd74eca702dfb"
@@ -13,9 +13,9 @@
         {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
-            "latest_version":"1.6.0",
-            "last_update":"2026-03-20",
-            "ja":"「メルトダウナー発現！？パーティクルでビームを連射してみる」の設定を追加。",
+            "latest_version":"1.6.1",
+            "last_update":"2026-06-07",
+            "ja":"「オマケ/GLB/スタンド型床」に「星型」「六星型」「六角形型」(_1m)のスタンド型床と、「応用例」に「HOT_LIMITっぽい設定(.json)」を追加。(※n周年版のみ)",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
             "release_note":""
@@ -23,29 +23,29 @@
         {
             "key":"AttachGuideObjects",
             "title":"アタッチ補助オブジェクト (Attach Guide Objects)",
-            "latest_version":"0.3",
-            "last_update":"2026-05-10",
-            "ja":"3方向、5方向など、幾何学的な座標計算をせずに、直感的に配置できる、アタッチ補助オブジェクト(.glb)です。アタッチはキャラクター(VRM), オブジェクト, パーティクル, カスタムライト, カスタムスクリーンで利用できるので、ちょっとしたギミックを作りたいときに便利です。\n・五芒星(星型の軌跡)を追加。",
-            "en":"This is an attachment guide object (.glb) that allows you to intuitively place objects in 3, 5, or other directions, without having to perform geometric coordinate calculations. It can be used to attach to characters (VRM), objects, particles, custom lights, and custom screens, making it convenient for creating simple gimmicks.\n・Added pentagram (star-shaped trail).",
+            "latest_version":"0.3.1",
+            "last_update":"2026-05-30",
+            "ja":"・「設定集」(フォルダ)に、v3.14以降用の環境設定ファイル(environment_～.json)追加（※投げ銭版のみ）",
+            "en":"",
             "url":"https://fantom1x.booth.pm/items/8303431",
             "release_note":""
         },
         {
             "key":"ParticleTextures",
             "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.21",
-            "last_update":"2026-04-23",
-            "ja":"・「超かぐや姫！」(9種)＋「桜の花びら」(4種)追加。「私は、わたしの事が好き。」の設定(.json)付き。",
-            "en":"・Added 'CosmicPrincessKaguya' (9types) and 'Cherry blossom petals' (4typs). 'I love myself.' settings (.json) are included.",
+            "latest_version":"1.22",
+            "last_update":"2026-05-30",
+            "ja":"・「海の生物」(33種)とサンプル設定(.json)を追加。\n・「泡・シャボン玉」(2種)とサンプル設定(.json)を追加。",
+            "en":"",
             "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         },
         {
             "key":"StandTypeFloors",
             "title":"スタンド型床のバリエーション集 (Stand-type Floors)",
-            "latest_version":"1.2",
-            "last_update":"2026-05-23",
-            "ja":"・「SimpleStand」に「星型(StarStand～.glb)」「六星型(StarHexaStand～.glb)」「六角形型(HexaStand～.glb)」(18種)を追加（各1～5mのサイズバリエーションx3種）。\n・「SimpleStand/応用例」に「HOT_LIMITっぽい設定(.json)」を追加。",
+            "latest_version":"1.2.1",
+            "last_update":"2026-06-07",
+            "ja":"・「SimpleStand/応用例」に「environment_HOT_LIMITっぽい設定_v3.14以降.json」（環境設定ファイルだけで、オブジェクトもロードできる版）を追加。",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/8034971",
             "release_note":""
@@ -93,12 +93,12 @@
     ],
     "note":{
         "key":"note",
-        "title":"「補助オブジェクト」の仕組みと作り方",
-        "latest_version":"n111db781aabc",
-        "last_update":"2026-05-06",
-        "ja":"「補助オブジェクト」を自作したい人のために、仕組みと考え方・作り方などを解説します。",
-        "en":"This note explains the mechanism, concepts, and creation methods for those who want to create their own 'Guide Objects'.",
-        "url":"https://note.com/fantom1x/n/n111db781aabc",
+        "title":"VRMLiveViewer 音声解説",
+        "latest_version":"n85b85d93c471",
+        "last_update":"2026-06-01",
+        "ja":"AIヘルプで生成された音声解説を実験的にYoutubeで公開しているもの。ポッドキャストのように、電車移動中や休憩中に聞き流し学習用。日本語音声は「よみ」間違いするのはご愛嬌(笑)。",
+        "en":"",
+        "url":"https://note.com/fantom1x/n/n85b85d93c471",
         "release_note":""
     }
 }
