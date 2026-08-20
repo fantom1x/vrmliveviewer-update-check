@@ -13,11 +13,21 @@
         {
             "key":"Demo-Setting_Samples",
             "title":"背景効果設定集 (Demo-Setting collection)",
-            "latest_version":"1.6.1",
-            "last_update":"2026-06-07",
-            "ja":"「オマケ/GLB/スタンド型床」に「星型」「六星型」「六角形型」(_1m)のスタンド型床と、「応用例」に「HOT_LIMITっぽい設定(.json)」を追加。(※n周年版のみ)",
+            "latest_version":"1.7",
+            "last_update":"2026-08-20",
+            "ja":"・「オマケ/パーティクルテクスチャ」フォルダに「羽」(6種)とサンプル設定(.json)を追加（8周年アイキャッチのパーティクルと設定。「祈り」のポーズ付き）。(※n周年版のみ)",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/3469388",
+            "release_note":""
+        },
+        {
+            "key":"ParticleTextures",
+            "title":"パーティクルテクスチャ集 (Particle Texture collection)",
+            "latest_version":"1.23",
+            "last_update":"2026-08-20",
+            "ja":"・「羽」(6種)とサンプル設定(.json)を追加（8周年アイキャッチのパーティクルと設定。「祈り」のポーズ付き）。",
+            "en":"",
+            "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         },
         {
@@ -28,16 +38,6 @@
             "ja":"・「設定集」(フォルダ)に、v3.14以降用の環境設定ファイル(environment_～.json)追加（※投げ銭版のみ）",
             "en":"",
             "url":"https://fantom1x.booth.pm/items/8303431",
-            "release_note":""
-        },
-        {
-            "key":"ParticleTextures",
-            "title":"パーティクルテクスチャ集 (Particle Texture collection)",
-            "latest_version":"1.22",
-            "last_update":"2026-05-30",
-            "ja":"・「海の生物」(33種)とサンプル設定(.json)を追加。\n・「泡・シャボン玉」(2種)とサンプル設定(.json)を追加。",
-            "en":"",
-            "url":"https://fantom1x.booth.pm/items/7286300",
             "release_note":""
         },
         {
